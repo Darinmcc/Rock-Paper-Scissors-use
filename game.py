@@ -7,8 +7,7 @@ print("--------------------")
 
 print("Let's begin:")
 
-user_choice = lower(input("Plase choose: 'Rock', 'Paper', 'Scissors':"))
-
+user_choice = input("Please choose: 'Rock', 'Paper', 'Scissors':")
 
 options = ["rock", "paper", "scissors"]
 
