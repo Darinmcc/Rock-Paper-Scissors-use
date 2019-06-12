@@ -34,22 +34,24 @@ print("COMPUTER CHOICE:", computer_choice)
 
 if user_choice == computer_choice:
     print("TIE")
-elif user_choice = "rock" and computer_choice == "paper":
+elif user_choice == "rock" and computer_choice == "paper":
     print("Sorry, better luck next time!")
-elif user_choice = "rock" and computer_choice == "scissors":
+elif user_choice == "rock" and computer_choice == "scissors":
     print("Congratulaions, you WON!")
 
-elif user_choice = "paper" and computer_choice == "scissors":
+elif user_choice == "paper" and computer_choice == "scissors":
     print("Sorry, better luck next time!")
-elif user_choice = "paper" and computer_choice == "rock":
+elif user_choice == "paper" and computer_choice == "rock":
     print("Congratulaions, you WON!")
 
-elif user_choice = "scissors" and computer_choice == "rock":
+elif user_choice == "scissors" and computer_choice == "rock":
     print("Sorry, better luck next time!")
-elif user_choice = "scissors" and computer_choice == "paper":
+elif user_choice == "scissors" and computer_choice == "paper":
     print("Congratulaions, you WON!")
 
 print("Play again?")
 exit()
+
+#cd C:/Users/dmccollum/Documents/GitHub/Rock-Paper-Scissors-use
 
 
